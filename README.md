@@ -2,7 +2,8 @@
 Following lessons from The Odin Project
 
 The Odin Project recommends I use this as a before and after reflection 
-type thing!
+type thing! Commiting an additional test because first commit didn't put 
+all of this in there.
 
 Before: I'm super excited to understand how Git and Github work finally, 
 with some sort of background. I've been wanting this for a long time and 
